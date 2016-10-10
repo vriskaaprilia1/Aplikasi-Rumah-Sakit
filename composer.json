@@ -11,7 +11,8 @@
         "zizaco/entrust": "~1.7",
         "yajra/laravel-datatables-oracle": "~6.0",
         "maatwebsite/excel": "=2.1",
-        "barryvdh/laravel-dompdf": "~0.6"
+        "barryvdh/laravel-dompdf": "~0.6",
+        "backpack/base": "0.6.x"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
